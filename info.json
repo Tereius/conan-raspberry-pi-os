@@ -1,0 +1,13 @@
+{
+  "version": "0.0.9",
+  "projectName": "raspberry-pi-os",
+  "projectDescription": "Raspberry Pi OS Cross-Toolchain.",
+  "vendor": "Björn Stresing",
+  "contact": "bjoern.stresing@gmx.de",
+  "domain": "com.github.tereius",
+  "copyrightYear": "2023",
+  "repository": "https://github.com/Tereius/conan-raspberry-pi-os",
+  "topics": ["Raspberry", "Pi", "Cross"],
+  "homepage": "https://github.com/tttapa/docker-arm-cross-toolchain",
+  "license": "GPL"
+}
